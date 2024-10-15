@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dynamic Dice Compose</string>
+    <string name="title">Dynamic Dice</string>
+    <string name="button">Roll</string>
+</resources>
